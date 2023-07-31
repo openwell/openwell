@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently job hunting.
-- 🌱 I’m currently learning to Build an Ethereum Blockchain App (DAPP)
 - 👯 I’m looking to collaborate on open-source/commercial projects
-- 🤔 I’m seeking help with recommendations for my next job.
 - 💬 Ask me about Mobile(React Native) & Web Development
 - 📫 How to reach me: Mail
-- ⚡ Fun fact: Havnt left my country before.
